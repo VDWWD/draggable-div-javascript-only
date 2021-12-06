@@ -1,6 +1,6 @@
 ﻿.DraggableDiv {
     /* to allow the draggable div's to scroll with the content make the position absolute */
-    position: absolute;
+    position: fixed;
     top: 30%;
     left: 20%;
     width: 250px;
